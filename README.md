@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+The OpenAI Assistant Creator is your go-to tool to create multiple AI assistants simultaneously, saving you valuable time and effort. 
+
+Good for:
+
+- Developers building AI-powered applications
+- Researchers exploring various AI assistant configurations
+
 
 ## Getting Started
 

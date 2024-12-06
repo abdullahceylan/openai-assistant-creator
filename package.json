@@ -2,6 +2,7 @@
   "name": "openai-assistant-creator",
   "version": "0.1.0",
   "private": true,
+  "author": "abdullahceylan",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
